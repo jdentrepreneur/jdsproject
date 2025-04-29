@@ -1,0 +1,16 @@
+{
+    "name": "portfolio-project",
+    "version": "1.0.0",
+    "description": "A personal portfolio project using HTML, CSS, and JavaScript.",
+    "main": "index.html",
+    "scripts": {
+      "start": "live-server --port=8080",
+      "build": "echo 'No build step defined'"
+    },
+    "dependencies": {
+      "live-server": "^1.2.1"
+    },
+    "devDependencies": {},
+    "author": "Jerwin Anto",
+    "license": "ISC"
+  }
